@@ -1,10 +1,9 @@
-- 👋 Hi, I’m Jules Karegeya Mugisha
-- 👀 I’m interested in Programming (coding)
-- 🌱 I’m currently learning Mobile App Development 
-- 💞️ I’m looking to collaborate on Network Engineering 
-- 📫 How to reach me on juleshakar@gmail.com 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+👋 Hi, I'm Jules Karegeya Mugisha!  
+💻 Software Developer | Virtual Assistant | Data management 
+🚀 Passionate about AI, Web Dev & Cloud Computing  
+🌱 Currently learning UI/UX & Machine Learning  
+📫 Reach me at: juleshakar@gmail.com 
+✨ Fun fact: I love coffee & coding at midnight!
 
 <!---
 JulesKare/JulesKare is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
