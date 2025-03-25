@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JulesKare
+- 👋 Hi, I’m Jules Karegeya Mugisha
 - 👀 I’m interested in Programming (coding)
 - 🌱 I’m currently learning Mobile App Development 
 - 💞️ I’m looking to collaborate on Network Engineering 
