@@ -1,6 +1,6 @@
-👋 Hi, I'm Jules Karegeya Mugisha!  
-💻 Software Developer | Virtual Assistant | Data management 
-🚀 Passionate about AI, Web Dev & Cloud Computing  
+👋 Hi, I'm Jules KAREGEYA MUGISHA!  
+💻 Software Developer | Virtual Assistant | Data Analyst 
+🚀 Passionate about AI, Quality Assurance & Cloud Computing  
 🌱 Currently learning UI/UX & Machine Learning  
 📫 Reach me at: juleshakar@gmail.com 
 ✨ Fun fact: I love coffee & coding at midnight!
